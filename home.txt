@@ -1,2 +1,2 @@
 Esta é uma linha de texto
-Linha escrita na outra branch (Nova-branch)
+Esta é uma segunda linha te texto
